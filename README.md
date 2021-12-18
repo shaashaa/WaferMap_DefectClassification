@@ -1,1 +1,1 @@
-# WaferMap_DefectClassification
+# WaferMap_DefectPattern_Classification
